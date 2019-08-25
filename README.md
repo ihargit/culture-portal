@@ -1,3 +1,7 @@
+# Culture portal (command task)
+
+## Demo: https://culture-portal-rss.herokuapp.com/photographers-list/
+
 # self evaluation
   ## Min scope - 40
     + 10 Main page + page with a list of authors + author's page (only html);
